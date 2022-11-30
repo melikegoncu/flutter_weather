@@ -1,16 +1,14 @@
 # flutter_weather
 
-A new Flutter project.
+Weather app.
 
-## Getting Started
+## About Project:
+- <a href='https://openweathermap.org/current'>Current Weather API </a> has been used.
+- Default location is the one found by GPS (provided with Location package).
 
-This project is a starting point for a Flutter application.
+## Example visuals:
+-<img src="https://user-images.githubusercontent.com/50702632/204854879-e9396f39-c06e-4ce5-b159-8a3ffe371e96.png"  height="600" width="300" >
+<img src="https://user-images.githubusercontent.com/50702632/204855044-439d7eec-e6bf-4ced-ac1d-33e999bdd919.png"  height="600" width="300" >
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-<img src="https://user-images.githubusercontent.com/50702632/204855070-262c9875-63af-49df-9561-95958e2bcfbd.png" height="600" width="300" >
+<img src="https://user-images.githubusercontent.com/50702632/204855093-fb350819-8300-452a-8413-6629dd272841.png"  height="600" width="300" >
