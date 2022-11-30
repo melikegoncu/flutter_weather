@@ -13,7 +13,7 @@ class DataService{
     if(city != ''){
     final queryParameters = {
       'q': city,
-      'appid' : 'b22d26946e5d68694b486295e4150dcc',
+      'appid' : '!api_token!',
       'units' : units,
       'lang' :  lang
     };
@@ -21,7 +21,7 @@ class DataService{
     }
     else{
       final queryParameters = {
-      'appid' : 'b22d26946e5d68694b486295e4150dcc',
+      'appid' : '!api_token!',
       'lat' : lat.toString(),
       'lon' : lon.toString(),
       'units' : units,
